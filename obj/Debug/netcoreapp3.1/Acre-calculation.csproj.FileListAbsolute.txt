@@ -1,0 +1,13 @@
+C:\Users\Gökhan\source\repos\Acre-calculation\bin\Debug\netcoreapp3.1\Acre-calculation.exe
+C:\Users\Gökhan\source\repos\Acre-calculation\bin\Debug\netcoreapp3.1\Acre-calculation.deps.json
+C:\Users\Gökhan\source\repos\Acre-calculation\bin\Debug\netcoreapp3.1\Acre-calculation.runtimeconfig.json
+C:\Users\Gökhan\source\repos\Acre-calculation\bin\Debug\netcoreapp3.1\Acre-calculation.runtimeconfig.dev.json
+C:\Users\Gökhan\source\repos\Acre-calculation\bin\Debug\netcoreapp3.1\Acre-calculation.dll
+C:\Users\Gökhan\source\repos\Acre-calculation\bin\Debug\netcoreapp3.1\Acre-calculation.pdb
+C:\Users\Gökhan\source\repos\Acre-calculation\obj\Debug\netcoreapp3.1\Acre-calculation.csprojAssemblyReference.cache
+C:\Users\Gökhan\source\repos\Acre-calculation\obj\Debug\netcoreapp3.1\Acre-calculation.AssemblyInfoInputs.cache
+C:\Users\Gökhan\source\repos\Acre-calculation\obj\Debug\netcoreapp3.1\Acre-calculation.AssemblyInfo.cs
+C:\Users\Gökhan\source\repos\Acre-calculation\obj\Debug\netcoreapp3.1\Acre-calculation.csproj.CoreCompileInputs.cache
+C:\Users\Gökhan\source\repos\Acre-calculation\obj\Debug\netcoreapp3.1\Acre-calculation.dll
+C:\Users\Gökhan\source\repos\Acre-calculation\obj\Debug\netcoreapp3.1\Acre-calculation.pdb
+C:\Users\Gökhan\source\repos\Acre-calculation\obj\Debug\netcoreapp3.1\Acre-calculation.genruntimeconfig.cache
